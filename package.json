@@ -1,0 +1,17 @@
+{
+  "name": "chapter_6_library_api",
+  "version": "1.0.0",
+  "description": "A library api that serves user through http requests",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Htet Hlaing Win",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@fastify/formbody": "^8.0.2",
+    "fastify": "^5.6.1"
+  }
+}
