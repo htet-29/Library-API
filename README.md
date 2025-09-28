@@ -11,3 +11,15 @@ npm install fastify
 ```sh
 npm install @fastify/formbody
 ```
+
+## Installing database
+
+```sh
+npm install sqlite3
+```
+
+## Package for object relational mapper (ORM) 
+
+```sh
+npm install sequelize
+```

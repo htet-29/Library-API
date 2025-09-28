@@ -12,6 +12,8 @@
   "type": "module",
   "dependencies": {
     "@fastify/formbody": "^8.0.2",
-    "fastify": "^5.6.1"
+    "fastify": "^5.6.1",
+    "sequelize": "^6.37.7",
+    "sqlite3": "^5.1.7"
   }
 }
